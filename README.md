@@ -4,4 +4,8 @@
 개발자
 김한승(shs90021@gmail.com)
 
+<<<<<<< HEAD
 감사합니다.
+=======
+merge 테스트하기 branch 추가
+>>>>>>> test02
