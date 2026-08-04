@@ -4,4 +4,4 @@
 개발자
 김한승(shs90021@gmail.com)
 
-Thanks :)
+감사합니다.
