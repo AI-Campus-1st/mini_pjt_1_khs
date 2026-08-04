@@ -11,6 +11,9 @@ def mul(a, b):
 def sqara(a,b):
     return a**2
 
+def x3(a):
+    return a ** 3
+
 def mod(a, b):
     return a % b
 
