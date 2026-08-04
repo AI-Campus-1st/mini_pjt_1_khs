@@ -8,6 +8,9 @@ def sub(a, b):
 def mul(a, b):
     return a * b
 
+def sqara(a,b):
+    return a**2
+
 def mod(a, b):
     return a % b
 
