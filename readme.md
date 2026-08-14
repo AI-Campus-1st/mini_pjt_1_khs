@@ -1,6 +1,3 @@
-{\rtf1\ansi\ansicpg949\cocoartf2870
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+# 1차 미니 프로젝트
+
+경기도 상권 데이터와 연령별 인구 데이터를 활용한 분석 프로젝트입니다.
